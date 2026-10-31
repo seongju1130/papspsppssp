@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PASS",
+  "orientation": "any",
+  "scope": "https://seongju1130.github.io/papspsppssp/",
+  "short_name": "PASS",
+  "start_url": "https://seongju1130.github.io/papspsppssp/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "https://seongju1130.github.io/papspsppssp/",
+  "description": "PASS"
+}
